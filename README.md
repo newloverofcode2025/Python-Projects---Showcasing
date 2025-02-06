@@ -68,7 +68,7 @@ A Flask-based app that generates random motivational quotes. Perfect for daily i
 ### 2. **Weather App**
 Fetches real-time weather data using the OpenWeatherMap API. Enter any city name and get the current weather details.
 - **Tech Used**: Python (Flask), OpenWeatherMap API, HTML, CSS
-- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects/WeatherApp)
+- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/WeatherApp)
 
 ### 3. **Password Generator**
 A secure password generator that creates strong, random passwords based on user-defined length.
@@ -78,12 +78,12 @@ A secure password generator that creates strong, random passwords based on user-
 ### 4. **Image Gallery**
 A responsive image gallery with lightbox functionality built using Flask. Great for showcasing photos!
 - **Tech Used**: Python (Flask), HTML, CSS
-- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects/ImageGallery)
+- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/ImageGallery)
 
 ### 5. **To-Do List App**
 A dynamic to-do list app where users can add, delete, and manage tasks.
 - **Tech Used**: Python (Flask), HTML, CSS
-- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects/ToDoListApp)
+- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/ToDoListApp)
 
 ---
 
