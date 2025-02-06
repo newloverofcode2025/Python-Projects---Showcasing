@@ -1,7 +1,7 @@
 # Python Projects - Showcasing
  To showcase some of my projects that will help me to broadcast my skills and learnings. Work in Progress!
 
-# 👋 Hi, I'm [Abhishek Banerjee]!
+# 👋 Hi, I'm Abhishek Banerjee!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions, solving real-world problems, and contributing to open-source projects. Whether you're here to collaborate, learn, or just explore, I'm thrilled to have you here!
 
@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 ## 🌟 About Me
 
-- **Name**: [Abhishek Banerjee]  
-- **Location**: [Delhi/India]  
-- **Profession**: [HR Specialist & Strategist, newbie programmer and coder, falling in love with the world of coding.]  
-- **Languages**: [English, Bengali, Hindi and Nepali]  
+- **Name**: Abhishek Banerjee 
+- **Location**: Delhi/India  
+- **Profession**: HR Specialist & Strategist, newbie programmer and coder, falling in love with the world of coding.  
+- **Languages**: English, Bengali, Hindi and Nepali  
 
 I specialize in **[prompt engineering, content creation, python language, observing real world problems and figuring solutions in coding, generative AI.]**, and I enjoy working with technologies like **[Python, Flask, HTML, CSS, etc.]**. My goal is to create impactful coding that makes life easier, faster, and more enjoyable and also to make people believe even non coders can start to learn coding.
 
@@ -53,6 +53,13 @@ Here are some of the tools, frameworks, and languages I work with:
 
 Below are some of the projects I've worked on. Feel free to check them out and let me know if you'd like to collaborate or contribute!
 
+## 🎵 Jingle Bells with Python
+
+Here’s how you can get Python to play “Jingle Bells”! 🔔  
+Using `pygame` and `numpy`, I had a little fun playing the entire Jingle bells! 😃  
+
+Check out the project here: [Jingle Bells with Python](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/JingleBells)
+
 ### 1. **Random Quote Generator**
 A Flask-based app that generates random motivational quotes. Perfect for daily inspiration!
 - **Tech Used**: Python (Flask), HTML, CSS
@@ -61,7 +68,7 @@ A Flask-based app that generates random motivational quotes. Perfect for daily i
 ### 2. **Weather App**
 Fetches real-time weather data using the OpenWeatherMap API. Enter any city name and get the current weather details.
 - **Tech Used**: Python (Flask), OpenWeatherMap API, HTML, CSS
-- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects/WeatherApp)
+- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/WeatherApp)
 
 ### 3. **Password Generator**
 A secure password generator that creates strong, random passwords based on user-defined length.
@@ -71,12 +78,12 @@ A secure password generator that creates strong, random passwords based on user-
 ### 4. **Image Gallery**
 A responsive image gallery with lightbox functionality built using Flask. Great for showcasing photos!
 - **Tech Used**: Python (Flask), HTML, CSS
-- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects/ImageGallery)
+- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/ImageGallery)
 
 ### 5. **To-Do List App**
 A dynamic to-do list app where users can add, delete, and manage tasks.
 - **Tech Used**: Python (Flask), HTML, CSS
-- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects/ToDoListApp)
+- [Link to Repository](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/ToDoListApp)
 
 ---
 
