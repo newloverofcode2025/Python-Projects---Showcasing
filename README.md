@@ -53,6 +53,13 @@ Here are some of the tools, frameworks, and languages I work with:
 
 Below are some of the projects I've worked on. Feel free to check them out and let me know if you'd like to collaborate or contribute!
 
+## 🎵 Jingle Bells with Python
+
+Here’s how you can get Python to play “Jingle Bells”! 🔔  
+Using `pygame` and `numpy`, I had a little fun playing the entire Jingle bells! 😃  
+
+Check out the project here: [Jingle Bells with Python](https://github.com/newloverofcode2025/Python-Projects---Showcasing/tree/main/JingleBells)
+
 ### 1. **Random Quote Generator**
 A Flask-based app that generates random motivational quotes. Perfect for daily inspiration!
 - **Tech Used**: Python (Flask), HTML, CSS
