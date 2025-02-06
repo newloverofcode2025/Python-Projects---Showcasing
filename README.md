@@ -1,7 +1,7 @@
 # Python Projects - Showcasing
  To showcase some of my projects that will help me to broadcast my skills and learnings. Work in Progress!
 
-# 👋 Hi, I'm [Abhishek Banerjee]!
+# 👋 Hi, I'm Abhishek Banerjee!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions, solving real-world problems, and contributing to open-source projects. Whether you're here to collaborate, learn, or just explore, I'm thrilled to have you here!
 
@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 ## 🌟 About Me
 
-- **Name**: [Abhishek Banerjee]  
-- **Location**: [Delhi/India]  
-- **Profession**: [HR Specialist & Strategist, newbie programmer and coder, falling in love with the world of coding.]  
-- **Languages**: [English, Bengali, Hindi and Nepali]  
+- **Name**: Abhishek Banerjee 
+- **Location**: Delhi/India  
+- **Profession**: HR Specialist & Strategist, newbie programmer and coder, falling in love with the world of coding.  
+- **Languages**: English, Bengali, Hindi and Nepali  
 
 I specialize in **[prompt engineering, content creation, python language, observing real world problems and figuring solutions in coding, generative AI.]**, and I enjoy working with technologies like **[Python, Flask, HTML, CSS, etc.]**. My goal is to create impactful coding that makes life easier, faster, and more enjoyable and also to make people believe even non coders can start to learn coding.
 
