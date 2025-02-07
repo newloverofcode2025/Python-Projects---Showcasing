@@ -1,0 +1,13 @@
+You are an HR in an apparel company named Pehnava, with around 5000 employees. This company has its HQ in Delhi and has 100+ stores in pan India. Keeping this in mind, there are the things that you are asked to do.
+Once you have identified the sources of recruitment and before recruiting these people, we need to define the key competencies for the role of a sales manager. In this part, you need to do the following-
+1. Define 8 key competencies required for a sales manager
+
+2. Provide a description of each competency you have identified
+
+3. Identify 8 unique observable behavior indicators for each competency
+
+[2 Bonus Marks will be given for listing out more observable behaviours]
+
+4. Identify 6 tools to assess the performance of the candidate/competency
+
+[3 Bonus Marks will be given for listing out extra tools]
