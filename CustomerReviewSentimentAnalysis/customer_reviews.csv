@@ -1,0 +1,1001 @@
+review_text,sentiment,rating
+The Smartwatch is amazing! I love it.,positive,4
+I'm very happy with my new Laptop.,positive,4
+I regret buying this Laptop.,positive,1
+I'm a bit disappointed with this Headphones.,negative,2
+The Headphones is terrible! Don't buy it.,negative,3
+The Smartwatch is amazing! I love it.,negative,1
+This Headphones exceeded my expectations.,neutral,4
+The Smartwatch is amazing! I love it.,negative,3
+"This Smartwatch is fantastic, highly recommended!",negative,3
+I'm very happy with my new Phone.,positive,5
+"This Smartwatch is fantastic, highly recommended!",positive,4
+"It's an average Tablet, does the job.",positive,3
+"This Phone is fantastic, highly recommended!",positive,1
+This Tablet exceeded my expectations.,positive,5
+"It's an average Laptop, does the job.",negative,4
+The Phone is amazing! I love it.,neutral,3
+This Laptop exceeded my expectations.,neutral,2
+The Laptop is terrible! Don't buy it.,neutral,5
+The Tablet is terrible! Don't buy it.,neutral,4
+This Laptop exceeded my expectations.,neutral,3
+I regret buying this Headphones.,negative,2
+The Laptop is amazing! I love it.,negative,2
+The Smartwatch is amazing! I love it.,positive,2
+"The Phone is not bad, but could be better.",neutral,5
+"This Headphones is fantastic, highly recommended!",neutral,1
+I regret buying this Phone.,negative,1
+I'm very happy with my new Smartwatch.,positive,4
+"This Phone is fantastic, highly recommended!",neutral,3
+I'm very happy with my new Laptop.,positive,4
+"This Smartwatch is okay, nothing special.",positive,5
+I'm very happy with my new Phone.,negative,5
+I regret buying this Smartwatch.,positive,3
+"The Headphones is not bad, but could be better.",neutral,3
+The Smartwatch is amazing! I love it.,negative,3
+The Laptop is amazing! I love it.,negative,2
+"The Tablet is not bad, but could be better.",neutral,1
+"This Smartwatch is fantastic, highly recommended!",negative,5
+"It's an average Phone, does the job.",neutral,4
+The Smartwatch is terrible! Don't buy it.,positive,3
+"This Headphones is fantastic, highly recommended!",positive,3
+This Headphones exceeded my expectations.,neutral,3
+"This Phone is okay, nothing special.",neutral,1
+"This Laptop is fantastic, highly recommended!",neutral,3
+"This Smartwatch is okay, nothing special.",positive,4
+"It's an average Tablet, does the job.",negative,4
+"This Headphones is okay, nothing special.",neutral,1
+This Headphones exceeded my expectations.,neutral,5
+"This Laptop is okay, nothing special.",neutral,5
+I'm very happy with my new Headphones.,negative,2
+I regret buying this Laptop.,neutral,5
+"The Headphones is not bad, but could be better.",negative,4
+"This Laptop is okay, nothing special.",positive,1
+"This Phone is okay, nothing special.",neutral,1
+I'm a bit disappointed with this Phone.,positive,5
+"This Laptop is okay, nothing special.",positive,1
+I'm a bit disappointed with this Tablet.,negative,3
+"This Laptop is fantastic, highly recommended!",neutral,4
+"This Laptop is fantastic, highly recommended!",neutral,1
+The Smartwatch is amazing! I love it.,neutral,4
+The Phone is terrible! Don't buy it.,negative,2
+The Tablet is amazing! I love it.,neutral,1
+The Headphones is terrible! Don't buy it.,negative,2
+"It's an average Headphones, does the job.",positive,5
+"This Phone is fantastic, highly recommended!",positive,2
+I'm very happy with my new Headphones.,neutral,3
+This Headphones exceeded my expectations.,positive,1
+"It's an average Smartwatch, does the job.",negative,5
+"It's an average Smartwatch, does the job.",neutral,4
+The Tablet is amazing! I love it.,negative,2
+This Smartwatch exceeded my expectations.,negative,3
+I regret buying this Phone.,positive,1
+"This Laptop is okay, nothing special.",negative,4
+I'm very happy with my new Tablet.,negative,4
+"This Headphones is fantastic, highly recommended!",negative,1
+The Tablet is amazing! I love it.,positive,1
+I'm very happy with my new Phone.,positive,3
+I'm very happy with my new Laptop.,negative,2
+I'm a bit disappointed with this Phone.,positive,1
+"This Smartwatch is fantastic, highly recommended!",neutral,4
+The Headphones is amazing! I love it.,neutral,5
+"This Headphones is fantastic, highly recommended!",positive,3
+I regret buying this Headphones.,negative,1
+I regret buying this Tablet.,negative,1
+"This Phone is okay, nothing special.",neutral,1
+I regret buying this Smartwatch.,positive,1
+The Smartwatch is terrible! Don't buy it.,negative,3
+This Phone exceeded my expectations.,negative,2
+The Tablet is terrible! Don't buy it.,positive,2
+I'm a bit disappointed with this Smartwatch.,negative,1
+"This Smartwatch is fantastic, highly recommended!",negative,4
+The Headphones is amazing! I love it.,neutral,5
+The Phone is amazing! I love it.,neutral,2
+"The Headphones is not bad, but could be better.",negative,2
+This Headphones exceeded my expectations.,neutral,3
+The Headphones is terrible! Don't buy it.,neutral,3
+"The Phone is not bad, but could be better.",negative,1
+"This Laptop is fantastic, highly recommended!",negative,2
+This Laptop exceeded my expectations.,neutral,5
+I'm a bit disappointed with this Headphones.,neutral,4
+"The Smartwatch is not bad, but could be better.",positive,4
+"This Smartwatch is fantastic, highly recommended!",positive,5
+"It's an average Tablet, does the job.",negative,1
+"This Laptop is okay, nothing special.",positive,4
+I regret buying this Headphones.,neutral,3
+"This Headphones is okay, nothing special.",positive,5
+I'm a bit disappointed with this Smartwatch.,neutral,2
+"It's an average Tablet, does the job.",negative,3
+"This Tablet is fantastic, highly recommended!",neutral,2
+I'm a bit disappointed with this Headphones.,positive,2
+"It's an average Smartwatch, does the job.",positive,4
+This Smartwatch exceeded my expectations.,positive,2
+I regret buying this Phone.,positive,5
+"This Phone is okay, nothing special.",negative,4
+"The Tablet is not bad, but could be better.",neutral,2
+This Tablet exceeded my expectations.,positive,3
+I'm very happy with my new Tablet.,neutral,2
+"The Smartwatch is not bad, but could be better.",positive,5
+I'm a bit disappointed with this Tablet.,positive,1
+This Tablet exceeded my expectations.,negative,2
+I'm a bit disappointed with this Tablet.,positive,3
+I'm a bit disappointed with this Headphones.,positive,5
+I regret buying this Tablet.,positive,2
+I'm a bit disappointed with this Laptop.,neutral,3
+"The Phone is not bad, but could be better.",negative,4
+"This Smartwatch is okay, nothing special.",positive,1
+I'm a bit disappointed with this Headphones.,positive,4
+The Smartwatch is terrible! Don't buy it.,positive,5
+The Tablet is terrible! Don't buy it.,positive,5
+"It's an average Phone, does the job.",positive,4
+The Phone is amazing! I love it.,positive,4
+"It's an average Headphones, does the job.",negative,4
+I'm very happy with my new Tablet.,positive,3
+"This Phone is okay, nothing special.",positive,2
+The Smartwatch is amazing! I love it.,neutral,4
+"This Smartwatch is okay, nothing special.",negative,5
+The Headphones is amazing! I love it.,negative,3
+I regret buying this Tablet.,positive,5
+I'm a bit disappointed with this Headphones.,neutral,5
+"The Phone is not bad, but could be better.",positive,5
+This Headphones exceeded my expectations.,positive,2
+"This Headphones is okay, nothing special.",positive,5
+"This Tablet is fantastic, highly recommended!",neutral,1
+"It's an average Headphones, does the job.",positive,3
+I'm a bit disappointed with this Laptop.,neutral,2
+"The Headphones is not bad, but could be better.",neutral,1
+This Laptop exceeded my expectations.,neutral,1
+The Headphones is terrible! Don't buy it.,positive,3
+I'm very happy with my new Phone.,neutral,4
+"It's an average Headphones, does the job.",positive,2
+I'm very happy with my new Phone.,positive,4
+"The Headphones is not bad, but could be better.",neutral,1
+The Headphones is terrible! Don't buy it.,neutral,3
+This Tablet exceeded my expectations.,neutral,4
+"This Tablet is okay, nothing special.",positive,4
+The Phone is terrible! Don't buy it.,negative,1
+"It's an average Smartwatch, does the job.",positive,1
+This Laptop exceeded my expectations.,positive,2
+"The Phone is not bad, but could be better.",negative,3
+"The Tablet is not bad, but could be better.",negative,3
+I'm a bit disappointed with this Headphones.,neutral,2
+I'm a bit disappointed with this Phone.,negative,1
+"This Phone is okay, nothing special.",negative,2
+The Laptop is terrible! Don't buy it.,negative,5
+This Phone exceeded my expectations.,positive,1
+"The Laptop is not bad, but could be better.",negative,1
+"The Smartwatch is not bad, but could be better.",positive,1
+"This Smartwatch is fantastic, highly recommended!",positive,5
+"This Laptop is fantastic, highly recommended!",positive,4
+"It's an average Tablet, does the job.",positive,5
+I regret buying this Tablet.,negative,2
+The Headphones is amazing! I love it.,positive,1
+The Headphones is amazing! I love it.,positive,4
+I regret buying this Tablet.,neutral,5
+I'm very happy with my new Smartwatch.,neutral,1
+"This Smartwatch is fantastic, highly recommended!",negative,3
+I'm very happy with my new Phone.,neutral,4
+"It's an average Headphones, does the job.",positive,5
+"This Tablet is fantastic, highly recommended!",positive,4
+"This Headphones is fantastic, highly recommended!",negative,3
+I regret buying this Phone.,negative,2
+I regret buying this Tablet.,negative,5
+I regret buying this Smartwatch.,positive,4
+The Laptop is amazing! I love it.,negative,1
+"It's an average Phone, does the job.",negative,1
+"The Smartwatch is not bad, but could be better.",negative,1
+"This Phone is fantastic, highly recommended!",negative,1
+I regret buying this Phone.,negative,5
+"This Smartwatch is okay, nothing special.",neutral,1
+"It's an average Laptop, does the job.",positive,4
+"It's an average Phone, does the job.",neutral,2
+The Smartwatch is terrible! Don't buy it.,neutral,2
+"This Headphones is okay, nothing special.",neutral,1
+The Phone is terrible! Don't buy it.,positive,2
+"This Tablet is fantastic, highly recommended!",negative,4
+I regret buying this Tablet.,neutral,5
+The Laptop is amazing! I love it.,negative,4
+"This Smartwatch is okay, nothing special.",positive,2
+I'm very happy with my new Phone.,neutral,3
+I regret buying this Phone.,neutral,3
+I'm a bit disappointed with this Headphones.,positive,5
+I'm very happy with my new Smartwatch.,neutral,4
+I regret buying this Laptop.,neutral,5
+I'm very happy with my new Headphones.,neutral,5
+This Laptop exceeded my expectations.,neutral,2
+I regret buying this Phone.,neutral,2
+This Smartwatch exceeded my expectations.,neutral,3
+The Phone is amazing! I love it.,neutral,3
+"It's an average Headphones, does the job.",positive,2
+I'm very happy with my new Tablet.,positive,1
+The Tablet is amazing! I love it.,negative,1
+"The Tablet is not bad, but could be better.",neutral,2
+"It's an average Laptop, does the job.",positive,3
+I regret buying this Phone.,neutral,3
+"It's an average Smartwatch, does the job.",neutral,5
+"It's an average Headphones, does the job.",positive,5
+I regret buying this Laptop.,positive,3
+This Smartwatch exceeded my expectations.,negative,4
+The Laptop is amazing! I love it.,negative,3
+"It's an average Laptop, does the job.",neutral,1
+This Headphones exceeded my expectations.,neutral,5
+I'm a bit disappointed with this Laptop.,neutral,2
+I'm a bit disappointed with this Laptop.,positive,1
+"It's an average Tablet, does the job.",negative,5
+"This Headphones is okay, nothing special.",neutral,3
+The Laptop is terrible! Don't buy it.,positive,5
+"The Smartwatch is not bad, but could be better.",negative,5
+I'm very happy with my new Laptop.,neutral,5
+"It's an average Laptop, does the job.",positive,1
+I'm very happy with my new Laptop.,neutral,3
+I'm a bit disappointed with this Headphones.,positive,5
+I regret buying this Headphones.,positive,1
+"The Headphones is not bad, but could be better.",negative,3
+This Tablet exceeded my expectations.,negative,2
+This Headphones exceeded my expectations.,positive,4
+"This Tablet is fantastic, highly recommended!",neutral,5
+I regret buying this Smartwatch.,negative,4
+"This Laptop is fantastic, highly recommended!",negative,2
+"This Laptop is okay, nothing special.",neutral,2
+The Headphones is terrible! Don't buy it.,neutral,4
+The Laptop is amazing! I love it.,positive,4
+"This Phone is fantastic, highly recommended!",neutral,1
+"It's an average Smartwatch, does the job.",neutral,2
+"The Headphones is not bad, but could be better.",neutral,3
+"The Headphones is not bad, but could be better.",neutral,2
+"This Headphones is fantastic, highly recommended!",negative,2
+"This Laptop is okay, nothing special.",neutral,4
+I'm very happy with my new Headphones.,neutral,2
+"It's an average Laptop, does the job.",negative,3
+The Smartwatch is terrible! Don't buy it.,neutral,3
+"It's an average Laptop, does the job.",positive,5
+This Headphones exceeded my expectations.,negative,5
+"This Phone is fantastic, highly recommended!",neutral,2
+"The Laptop is not bad, but could be better.",neutral,1
+I regret buying this Smartwatch.,neutral,2
+"This Headphones is fantastic, highly recommended!",negative,1
+"It's an average Smartwatch, does the job.",neutral,3
+"The Headphones is not bad, but could be better.",negative,5
+The Tablet is amazing! I love it.,neutral,2
+"This Smartwatch is okay, nothing special.",neutral,1
+"This Headphones is okay, nothing special.",positive,5
+I regret buying this Laptop.,negative,5
+"The Laptop is not bad, but could be better.",negative,2
+"This Headphones is okay, nothing special.",negative,1
+The Smartwatch is terrible! Don't buy it.,negative,2
+I regret buying this Phone.,neutral,3
+"The Laptop is not bad, but could be better.",positive,2
+I regret buying this Laptop.,positive,4
+The Tablet is amazing! I love it.,negative,1
+The Tablet is terrible! Don't buy it.,neutral,2
+"This Tablet is okay, nothing special.",negative,1
+The Tablet is terrible! Don't buy it.,negative,1
+This Headphones exceeded my expectations.,positive,3
+I regret buying this Headphones.,neutral,5
+I'm very happy with my new Phone.,positive,5
+"It's an average Smartwatch, does the job.",positive,3
+"It's an average Laptop, does the job.",positive,5
+"This Laptop is fantastic, highly recommended!",positive,5
+I'm a bit disappointed with this Headphones.,positive,4
+"This Laptop is fantastic, highly recommended!",negative,4
+"This Smartwatch is fantastic, highly recommended!",neutral,3
+"This Tablet is fantastic, highly recommended!",positive,5
+I'm a bit disappointed with this Phone.,positive,3
+"This Headphones is fantastic, highly recommended!",neutral,5
+I'm a bit disappointed with this Laptop.,negative,2
+"The Phone is not bad, but could be better.",negative,2
+I'm very happy with my new Phone.,negative,1
+"This Laptop is okay, nothing special.",negative,2
+I'm very happy with my new Phone.,negative,2
+"The Tablet is not bad, but could be better.",positive,4
+This Tablet exceeded my expectations.,positive,2
+"The Tablet is not bad, but could be better.",neutral,3
+"This Laptop is okay, nothing special.",positive,1
+I regret buying this Laptop.,negative,2
+The Smartwatch is amazing! I love it.,negative,2
+The Smartwatch is terrible! Don't buy it.,negative,5
+"This Smartwatch is fantastic, highly recommended!",neutral,4
+"It's an average Phone, does the job.",positive,5
+I regret buying this Phone.,negative,5
+"It's an average Smartwatch, does the job.",positive,4
+The Headphones is terrible! Don't buy it.,neutral,1
+I'm very happy with my new Smartwatch.,positive,4
+"This Laptop is okay, nothing special.",neutral,4
+"This Tablet is fantastic, highly recommended!",negative,1
+The Headphones is terrible! Don't buy it.,positive,4
+"The Laptop is not bad, but could be better.",positive,2
+I'm very happy with my new Phone.,negative,3
+The Tablet is terrible! Don't buy it.,neutral,2
+The Laptop is amazing! I love it.,neutral,4
+I'm very happy with my new Smartwatch.,positive,4
+I regret buying this Tablet.,neutral,3
+I'm a bit disappointed with this Smartwatch.,negative,3
+"This Phone is fantastic, highly recommended!",neutral,4
+This Headphones exceeded my expectations.,negative,4
+"It's an average Headphones, does the job.",negative,3
+"This Laptop is fantastic, highly recommended!",neutral,1
+"This Phone is okay, nothing special.",negative,5
+"The Phone is not bad, but could be better.",neutral,2
+This Tablet exceeded my expectations.,negative,3
+The Smartwatch is amazing! I love it.,negative,3
+"The Tablet is not bad, but could be better.",negative,1
+I regret buying this Phone.,positive,5
+I regret buying this Phone.,neutral,5
+"The Phone is not bad, but could be better.",neutral,2
+"It's an average Tablet, does the job.",neutral,3
+The Laptop is terrible! Don't buy it.,negative,5
+"The Smartwatch is not bad, but could be better.",negative,1
+This Phone exceeded my expectations.,neutral,5
+I'm a bit disappointed with this Laptop.,negative,4
+I regret buying this Tablet.,neutral,4
+"This Smartwatch is fantastic, highly recommended!",neutral,1
+I regret buying this Phone.,positive,5
+"This Headphones is fantastic, highly recommended!",neutral,2
+I'm very happy with my new Laptop.,neutral,3
+I'm a bit disappointed with this Tablet.,negative,3
+This Phone exceeded my expectations.,neutral,1
+"This Smartwatch is fantastic, highly recommended!",neutral,2
+The Phone is amazing! I love it.,negative,3
+This Laptop exceeded my expectations.,positive,2
+"This Laptop is okay, nothing special.",negative,1
+I'm very happy with my new Smartwatch.,negative,5
+The Laptop is amazing! I love it.,negative,2
+The Headphones is amazing! I love it.,positive,1
+I'm very happy with my new Phone.,positive,4
+The Smartwatch is terrible! Don't buy it.,neutral,5
+I'm a bit disappointed with this Smartwatch.,positive,4
+The Laptop is terrible! Don't buy it.,positive,3
+I'm a bit disappointed with this Smartwatch.,neutral,1
+"This Headphones is okay, nothing special.",neutral,1
+"The Headphones is not bad, but could be better.",neutral,5
+"It's an average Tablet, does the job.",positive,1
+I'm very happy with my new Laptop.,positive,3
+The Phone is amazing! I love it.,neutral,3
+I regret buying this Laptop.,positive,2
+I'm a bit disappointed with this Tablet.,positive,1
+"The Laptop is not bad, but could be better.",negative,5
+The Tablet is terrible! Don't buy it.,positive,2
+"It's an average Tablet, does the job.",negative,5
+"It's an average Laptop, does the job.",neutral,4
+The Smartwatch is amazing! I love it.,negative,5
+"The Laptop is not bad, but could be better.",positive,2
+The Tablet is terrible! Don't buy it.,positive,4
+"It's an average Laptop, does the job.",positive,3
+"It's an average Phone, does the job.",neutral,3
+The Tablet is amazing! I love it.,negative,2
+I'm a bit disappointed with this Smartwatch.,positive,1
+I regret buying this Tablet.,negative,2
+This Headphones exceeded my expectations.,neutral,4
+This Headphones exceeded my expectations.,positive,5
+I'm very happy with my new Tablet.,negative,5
+This Smartwatch exceeded my expectations.,neutral,4
+"This Smartwatch is okay, nothing special.",negative,1
+"This Smartwatch is okay, nothing special.",positive,1
+The Smartwatch is terrible! Don't buy it.,negative,1
+"It's an average Headphones, does the job.",neutral,5
+I'm a bit disappointed with this Headphones.,positive,1
+"This Tablet is okay, nothing special.",neutral,4
+I'm very happy with my new Phone.,positive,1
+I'm a bit disappointed with this Smartwatch.,negative,4
+"It's an average Smartwatch, does the job.",positive,2
+This Tablet exceeded my expectations.,neutral,3
+I'm a bit disappointed with this Headphones.,positive,2
+I'm very happy with my new Tablet.,positive,5
+The Smartwatch is amazing! I love it.,positive,2
+This Phone exceeded my expectations.,negative,2
+The Phone is terrible! Don't buy it.,neutral,4
+"This Smartwatch is okay, nothing special.",neutral,3
+"This Laptop is okay, nothing special.",positive,1
+"It's an average Smartwatch, does the job.",negative,5
+I'm a bit disappointed with this Headphones.,positive,5
+"This Headphones is okay, nothing special.",negative,2
+"This Headphones is okay, nothing special.",negative,3
+"The Headphones is not bad, but could be better.",neutral,1
+I regret buying this Smartwatch.,neutral,2
+"The Smartwatch is not bad, but could be better.",negative,3
+This Phone exceeded my expectations.,negative,5
+"It's an average Laptop, does the job.",negative,1
+I'm a bit disappointed with this Laptop.,negative,3
+"This Phone is fantastic, highly recommended!",negative,4
+This Phone exceeded my expectations.,negative,4
+The Headphones is terrible! Don't buy it.,neutral,3
+"The Smartwatch is not bad, but could be better.",positive,3
+I'm very happy with my new Laptop.,negative,4
+I regret buying this Smartwatch.,negative,3
+I'm a bit disappointed with this Phone.,negative,2
+"It's an average Laptop, does the job.",neutral,2
+"This Phone is fantastic, highly recommended!",positive,2
+I'm very happy with my new Headphones.,negative,2
+"This Phone is fantastic, highly recommended!",positive,3
+"It's an average Tablet, does the job.",positive,3
+"The Smartwatch is not bad, but could be better.",neutral,5
+I'm a bit disappointed with this Laptop.,negative,5
+This Tablet exceeded my expectations.,positive,4
+The Laptop is amazing! I love it.,positive,2
+I'm a bit disappointed with this Phone.,negative,1
+The Phone is amazing! I love it.,positive,2
+This Phone exceeded my expectations.,neutral,1
+"The Phone is not bad, but could be better.",positive,3
+"This Tablet is okay, nothing special.",neutral,1
+"This Headphones is okay, nothing special.",positive,5
+I'm a bit disappointed with this Laptop.,negative,2
+The Laptop is amazing! I love it.,positive,3
+"This Tablet is okay, nothing special.",negative,2
+I regret buying this Phone.,positive,4
+This Smartwatch exceeded my expectations.,neutral,5
+"The Headphones is not bad, but could be better.",positive,4
+"It's an average Laptop, does the job.",neutral,2
+"It's an average Tablet, does the job.",positive,1
+I'm very happy with my new Phone.,neutral,1
+The Phone is amazing! I love it.,negative,3
+I'm very happy with my new Laptop.,negative,1
+I'm a bit disappointed with this Tablet.,positive,1
+I'm very happy with my new Phone.,negative,2
+The Headphones is terrible! Don't buy it.,negative,3
+I regret buying this Smartwatch.,negative,1
+"It's an average Laptop, does the job.",neutral,2
+I'm a bit disappointed with this Phone.,positive,1
+I'm a bit disappointed with this Tablet.,positive,4
+This Laptop exceeded my expectations.,negative,2
+I'm very happy with my new Smartwatch.,positive,3
+This Smartwatch exceeded my expectations.,neutral,3
+"It's an average Headphones, does the job.",neutral,1
+The Headphones is terrible! Don't buy it.,negative,4
+"It's an average Phone, does the job.",positive,3
+I regret buying this Tablet.,positive,5
+The Headphones is amazing! I love it.,positive,5
+"The Headphones is not bad, but could be better.",negative,2
+"It's an average Laptop, does the job.",neutral,2
+"The Headphones is not bad, but could be better.",positive,3
+"This Smartwatch is fantastic, highly recommended!",positive,2
+"This Phone is fantastic, highly recommended!",neutral,4
+I'm a bit disappointed with this Laptop.,positive,4
+I'm a bit disappointed with this Headphones.,positive,2
+I regret buying this Smartwatch.,positive,3
+I'm a bit disappointed with this Phone.,negative,5
+I'm very happy with my new Phone.,neutral,5
+"This Tablet is okay, nothing special.",neutral,1
+"The Phone is not bad, but could be better.",neutral,2
+I'm very happy with my new Laptop.,positive,4
+"It's an average Laptop, does the job.",positive,5
+"It's an average Tablet, does the job.",negative,5
+The Laptop is terrible! Don't buy it.,negative,5
+I'm a bit disappointed with this Laptop.,neutral,4
+"It's an average Tablet, does the job.",neutral,4
+I regret buying this Headphones.,positive,2
+The Phone is terrible! Don't buy it.,positive,3
+"The Smartwatch is not bad, but could be better.",negative,5
+"This Smartwatch is okay, nothing special.",positive,4
+"It's an average Headphones, does the job.",negative,4
+The Laptop is amazing! I love it.,neutral,5
+The Laptop is terrible! Don't buy it.,negative,5
+"This Smartwatch is okay, nothing special.",neutral,2
+The Tablet is terrible! Don't buy it.,negative,5
+I'm a bit disappointed with this Smartwatch.,positive,1
+"This Phone is fantastic, highly recommended!",positive,3
+"The Tablet is not bad, but could be better.",negative,1
+This Phone exceeded my expectations.,negative,3
+"It's an average Tablet, does the job.",positive,1
+I regret buying this Phone.,negative,5
+I regret buying this Phone.,negative,2
+I'm very happy with my new Laptop.,positive,4
+I regret buying this Laptop.,neutral,4
+"This Smartwatch is fantastic, highly recommended!",negative,2
+I'm very happy with my new Tablet.,neutral,3
+I regret buying this Smartwatch.,positive,2
+"The Laptop is not bad, but could be better.",positive,5
+I regret buying this Laptop.,positive,2
+"It's an average Headphones, does the job.",positive,2
+The Smartwatch is terrible! Don't buy it.,negative,4
+"The Smartwatch is not bad, but could be better.",neutral,5
+I'm a bit disappointed with this Laptop.,negative,1
+I'm very happy with my new Laptop.,positive,1
+The Laptop is terrible! Don't buy it.,neutral,4
+The Smartwatch is terrible! Don't buy it.,negative,2
+"This Headphones is okay, nothing special.",neutral,5
+The Laptop is terrible! Don't buy it.,neutral,3
+"It's an average Smartwatch, does the job.",neutral,2
+"It's an average Laptop, does the job.",neutral,4
+"This Smartwatch is fantastic, highly recommended!",positive,5
+I'm very happy with my new Phone.,negative,3
+"This Headphones is okay, nothing special.",neutral,4
+I regret buying this Laptop.,positive,1
+The Laptop is amazing! I love it.,neutral,5
+This Smartwatch exceeded my expectations.,neutral,3
+I regret buying this Phone.,negative,5
+This Tablet exceeded my expectations.,neutral,5
+"This Phone is fantastic, highly recommended!",negative,5
+This Phone exceeded my expectations.,negative,4
+"This Laptop is okay, nothing special.",positive,3
+I regret buying this Laptop.,neutral,1
+"The Phone is not bad, but could be better.",negative,2
+I'm a bit disappointed with this Headphones.,negative,4
+"The Laptop is not bad, but could be better.",neutral,2
+"This Phone is fantastic, highly recommended!",positive,4
+I regret buying this Phone.,neutral,5
+The Tablet is terrible! Don't buy it.,neutral,2
+The Laptop is terrible! Don't buy it.,negative,5
+"It's an average Laptop, does the job.",neutral,4
+The Tablet is terrible! Don't buy it.,neutral,5
+I regret buying this Smartwatch.,neutral,4
+I regret buying this Smartwatch.,positive,4
+"This Tablet is okay, nothing special.",negative,1
+This Laptop exceeded my expectations.,positive,5
+This Tablet exceeded my expectations.,negative,3
+"This Tablet is fantastic, highly recommended!",neutral,5
+"The Laptop is not bad, but could be better.",neutral,2
+The Laptop is amazing! I love it.,positive,3
+This Phone exceeded my expectations.,neutral,1
+"This Phone is fantastic, highly recommended!",negative,2
+The Phone is amazing! I love it.,negative,3
+I'm a bit disappointed with this Phone.,positive,4
+The Laptop is amazing! I love it.,negative,4
+The Laptop is terrible! Don't buy it.,positive,5
+"The Phone is not bad, but could be better.",negative,2
+The Phone is terrible! Don't buy it.,neutral,1
+"The Laptop is not bad, but could be better.",negative,4
+"It's an average Laptop, does the job.",neutral,2
+The Laptop is amazing! I love it.,positive,5
+"The Headphones is not bad, but could be better.",neutral,2
+The Phone is amazing! I love it.,negative,1
+"This Tablet is okay, nothing special.",negative,1
+"The Headphones is not bad, but could be better.",negative,1
+This Phone exceeded my expectations.,neutral,5
+I'm a bit disappointed with this Phone.,positive,3
+I regret buying this Tablet.,positive,5
+"This Smartwatch is fantastic, highly recommended!",positive,2
+The Phone is amazing! I love it.,negative,2
+The Phone is amazing! I love it.,negative,1
+I'm very happy with my new Laptop.,positive,1
+I regret buying this Smartwatch.,neutral,2
+I regret buying this Phone.,neutral,1
+"This Phone is okay, nothing special.",positive,3
+"This Headphones is fantastic, highly recommended!",neutral,4
+I'm a bit disappointed with this Headphones.,positive,2
+The Headphones is terrible! Don't buy it.,positive,5
+I'm a bit disappointed with this Headphones.,neutral,5
+"It's an average Headphones, does the job.",positive,5
+"This Phone is fantastic, highly recommended!",neutral,5
+"This Headphones is okay, nothing special.",positive,2
+"The Phone is not bad, but could be better.",negative,5
+"This Headphones is fantastic, highly recommended!",negative,3
+"This Headphones is okay, nothing special.",negative,5
+I'm a bit disappointed with this Smartwatch.,neutral,4
+I'm a bit disappointed with this Tablet.,positive,1
+"The Smartwatch is not bad, but could be better.",neutral,3
+The Laptop is terrible! Don't buy it.,positive,4
+"It's an average Tablet, does the job.",neutral,5
+I'm a bit disappointed with this Smartwatch.,positive,2
+"This Headphones is fantastic, highly recommended!",negative,5
+I regret buying this Smartwatch.,neutral,1
+This Tablet exceeded my expectations.,negative,5
+I'm very happy with my new Tablet.,neutral,1
+"This Phone is okay, nothing special.",neutral,1
+"The Phone is not bad, but could be better.",negative,3
+"It's an average Headphones, does the job.",neutral,5
+This Phone exceeded my expectations.,negative,3
+"It's an average Tablet, does the job.",neutral,3
+"This Tablet is fantastic, highly recommended!",neutral,1
+"The Headphones is not bad, but could be better.",negative,2
+I'm very happy with my new Laptop.,positive,4
+"This Phone is fantastic, highly recommended!",negative,2
+I'm very happy with my new Smartwatch.,negative,5
+I'm very happy with my new Tablet.,positive,5
+The Laptop is amazing! I love it.,neutral,3
+"This Headphones is okay, nothing special.",positive,4
+I'm a bit disappointed with this Laptop.,neutral,4
+The Smartwatch is terrible! Don't buy it.,positive,2
+The Phone is terrible! Don't buy it.,neutral,4
+I'm very happy with my new Laptop.,positive,3
+I'm very happy with my new Phone.,neutral,4
+"The Smartwatch is not bad, but could be better.",negative,2
+The Laptop is terrible! Don't buy it.,positive,4
+I'm very happy with my new Tablet.,negative,5
+The Headphones is terrible! Don't buy it.,negative,3
+"It's an average Laptop, does the job.",neutral,5
+I'm very happy with my new Smartwatch.,negative,3
+"It's an average Headphones, does the job.",negative,5
+"The Laptop is not bad, but could be better.",positive,4
+I regret buying this Headphones.,negative,5
+The Headphones is terrible! Don't buy it.,negative,1
+The Tablet is terrible! Don't buy it.,negative,2
+"This Smartwatch is okay, nothing special.",neutral,4
+This Phone exceeded my expectations.,neutral,3
+"This Tablet is okay, nothing special.",positive,3
+I regret buying this Tablet.,positive,1
+I'm a bit disappointed with this Smartwatch.,positive,5
+I regret buying this Laptop.,neutral,2
+I'm very happy with my new Tablet.,positive,4
+"It's an average Phone, does the job.",negative,5
+"This Phone is fantastic, highly recommended!",neutral,3
+"This Phone is fantastic, highly recommended!",positive,4
+"It's an average Smartwatch, does the job.",positive,2
+The Headphones is terrible! Don't buy it.,neutral,4
+This Tablet exceeded my expectations.,negative,1
+I'm a bit disappointed with this Laptop.,negative,1
+"This Smartwatch is okay, nothing special.",positive,2
+This Smartwatch exceeded my expectations.,positive,2
+I regret buying this Phone.,negative,1
+I regret buying this Tablet.,neutral,2
+"This Laptop is fantastic, highly recommended!",negative,5
+"The Headphones is not bad, but could be better.",positive,3
+"It's an average Tablet, does the job.",neutral,3
+"This Laptop is fantastic, highly recommended!",positive,3
+"This Smartwatch is okay, nothing special.",neutral,1
+"This Headphones is fantastic, highly recommended!",neutral,4
+The Headphones is amazing! I love it.,negative,2
+I regret buying this Laptop.,negative,3
+The Tablet is amazing! I love it.,neutral,1
+I'm very happy with my new Tablet.,neutral,4
+I'm very happy with my new Phone.,negative,4
+"This Phone is okay, nothing special.",negative,4
+I'm a bit disappointed with this Smartwatch.,neutral,3
+"This Phone is fantastic, highly recommended!",neutral,1
+I'm very happy with my new Laptop.,positive,3
+I'm a bit disappointed with this Tablet.,positive,1
+The Phone is terrible! Don't buy it.,negative,3
+"This Smartwatch is okay, nothing special.",neutral,2
+The Headphones is terrible! Don't buy it.,positive,5
+The Laptop is terrible! Don't buy it.,negative,4
+I regret buying this Smartwatch.,negative,1
+I'm very happy with my new Laptop.,neutral,2
+"This Headphones is okay, nothing special.",negative,3
+"It's an average Phone, does the job.",negative,2
+I'm a bit disappointed with this Phone.,neutral,4
+The Phone is terrible! Don't buy it.,positive,4
+I regret buying this Smartwatch.,neutral,5
+The Laptop is amazing! I love it.,negative,3
+"It's an average Headphones, does the job.",neutral,4
+I regret buying this Headphones.,positive,4
+The Phone is terrible! Don't buy it.,positive,2
+"This Tablet is okay, nothing special.",positive,5
+"This Headphones is okay, nothing special.",neutral,4
+"This Laptop is fantastic, highly recommended!",negative,2
+I regret buying this Smartwatch.,neutral,4
+I regret buying this Phone.,positive,5
+I regret buying this Phone.,negative,3
+I'm a bit disappointed with this Laptop.,negative,1
+The Phone is terrible! Don't buy it.,negative,2
+"This Laptop is fantastic, highly recommended!",negative,2
+"It's an average Smartwatch, does the job.",negative,4
+"It's an average Smartwatch, does the job.",positive,1
+This Tablet exceeded my expectations.,negative,2
+I'm a bit disappointed with this Tablet.,negative,1
+I regret buying this Laptop.,neutral,1
+I'm very happy with my new Tablet.,positive,1
+This Headphones exceeded my expectations.,negative,5
+"The Headphones is not bad, but could be better.",positive,1
+The Laptop is amazing! I love it.,neutral,4
+"This Tablet is okay, nothing special.",neutral,3
+The Tablet is amazing! I love it.,negative,4
+I'm very happy with my new Laptop.,negative,4
+I'm a bit disappointed with this Tablet.,negative,4
+"This Laptop is okay, nothing special.",positive,3
+The Phone is amazing! I love it.,positive,1
+I'm a bit disappointed with this Laptop.,positive,5
+"This Smartwatch is okay, nothing special.",neutral,5
+"The Phone is not bad, but could be better.",negative,4
+The Smartwatch is terrible! Don't buy it.,positive,2
+"It's an average Headphones, does the job.",neutral,4
+I'm very happy with my new Laptop.,neutral,1
+"The Smartwatch is not bad, but could be better.",neutral,4
+The Tablet is terrible! Don't buy it.,positive,5
+The Laptop is amazing! I love it.,positive,2
+"The Phone is not bad, but could be better.",negative,1
+I regret buying this Tablet.,negative,5
+I regret buying this Laptop.,neutral,4
+"It's an average Headphones, does the job.",positive,1
+I'm very happy with my new Headphones.,negative,3
+"This Smartwatch is fantastic, highly recommended!",negative,1
+This Tablet exceeded my expectations.,negative,2
+"This Tablet is fantastic, highly recommended!",neutral,5
+"It's an average Smartwatch, does the job.",positive,1
+I'm a bit disappointed with this Headphones.,negative,2
+"This Tablet is okay, nothing special.",negative,3
+I regret buying this Tablet.,neutral,4
+"This Headphones is fantastic, highly recommended!",negative,2
+"This Tablet is okay, nothing special.",negative,3
+The Laptop is terrible! Don't buy it.,positive,4
+I'm a bit disappointed with this Phone.,neutral,3
+"This Tablet is okay, nothing special.",negative,4
+I'm a bit disappointed with this Tablet.,neutral,4
+The Smartwatch is terrible! Don't buy it.,neutral,3
+"This Smartwatch is fantastic, highly recommended!",positive,1
+The Laptop is terrible! Don't buy it.,neutral,3
+The Phone is terrible! Don't buy it.,negative,4
+I'm very happy with my new Phone.,neutral,3
+I regret buying this Headphones.,negative,1
+"This Headphones is okay, nothing special.",positive,5
+"It's an average Laptop, does the job.",neutral,3
+"This Laptop is fantastic, highly recommended!",neutral,1
+"This Headphones is okay, nothing special.",negative,2
+"It's an average Laptop, does the job.",neutral,2
+I'm a bit disappointed with this Smartwatch.,negative,4
+I'm very happy with my new Phone.,neutral,5
+The Laptop is terrible! Don't buy it.,neutral,5
+I'm a bit disappointed with this Laptop.,positive,2
+I'm very happy with my new Smartwatch.,negative,5
+"This Laptop is fantastic, highly recommended!",negative,4
+"The Smartwatch is not bad, but could be better.",positive,1
+The Laptop is amazing! I love it.,negative,2
+This Tablet exceeded my expectations.,positive,4
+"This Phone is okay, nothing special.",neutral,5
+"The Headphones is not bad, but could be better.",neutral,4
+The Headphones is amazing! I love it.,positive,4
+The Phone is terrible! Don't buy it.,positive,3
+I'm a bit disappointed with this Headphones.,negative,2
+The Laptop is terrible! Don't buy it.,negative,3
+This Headphones exceeded my expectations.,negative,4
+I'm a bit disappointed with this Smartwatch.,neutral,1
+"This Smartwatch is fantastic, highly recommended!",positive,3
+This Laptop exceeded my expectations.,negative,2
+"The Laptop is not bad, but could be better.",positive,4
+This Smartwatch exceeded my expectations.,negative,5
+"This Phone is okay, nothing special.",neutral,1
+The Smartwatch is terrible! Don't buy it.,positive,1
+"It's an average Tablet, does the job.",negative,5
+"The Smartwatch is not bad, but could be better.",positive,3
+I'm a bit disappointed with this Phone.,neutral,3
+This Headphones exceeded my expectations.,positive,4
+I regret buying this Tablet.,positive,4
+"This Headphones is okay, nothing special.",positive,2
+The Laptop is amazing! I love it.,negative,2
+I regret buying this Tablet.,positive,4
+"The Phone is not bad, but could be better.",neutral,5
+I regret buying this Smartwatch.,neutral,2
+The Laptop is amazing! I love it.,negative,3
+"It's an average Smartwatch, does the job.",negative,3
+"The Phone is not bad, but could be better.",neutral,4
+I regret buying this Headphones.,neutral,1
+I'm a bit disappointed with this Smartwatch.,neutral,1
+"This Phone is okay, nothing special.",negative,5
+I regret buying this Smartwatch.,positive,2
+I regret buying this Phone.,negative,4
+"This Phone is okay, nothing special.",neutral,5
+This Phone exceeded my expectations.,neutral,1
+"The Laptop is not bad, but could be better.",positive,4
+"This Smartwatch is okay, nothing special.",negative,5
+I regret buying this Laptop.,neutral,3
+The Phone is amazing! I love it.,negative,2
+The Phone is terrible! Don't buy it.,neutral,5
+"This Phone is okay, nothing special.",neutral,5
+I'm very happy with my new Laptop.,positive,1
+I regret buying this Smartwatch.,negative,5
+The Tablet is terrible! Don't buy it.,negative,5
+The Tablet is terrible! Don't buy it.,neutral,5
+This Laptop exceeded my expectations.,negative,1
+"This Tablet is fantastic, highly recommended!",negative,2
+The Tablet is amazing! I love it.,negative,2
+"It's an average Tablet, does the job.",positive,4
+I'm very happy with my new Headphones.,negative,1
+I'm very happy with my new Tablet.,neutral,2
+"This Tablet is fantastic, highly recommended!",neutral,3
+The Headphones is amazing! I love it.,neutral,3
+I'm very happy with my new Phone.,positive,4
+"This Tablet is okay, nothing special.",negative,1
+I'm a bit disappointed with this Laptop.,positive,2
+The Smartwatch is amazing! I love it.,positive,5
+"It's an average Tablet, does the job.",negative,3
+I'm very happy with my new Tablet.,positive,1
+I'm very happy with my new Phone.,negative,1
+I regret buying this Phone.,neutral,1
+"The Tablet is not bad, but could be better.",positive,2
+This Tablet exceeded my expectations.,positive,2
+"This Laptop is fantastic, highly recommended!",negative,4
+This Headphones exceeded my expectations.,neutral,4
+I'm a bit disappointed with this Smartwatch.,neutral,1
+"This Phone is okay, nothing special.",neutral,2
+This Laptop exceeded my expectations.,negative,3
+I'm very happy with my new Smartwatch.,neutral,4
+"It's an average Smartwatch, does the job.",neutral,3
+"This Laptop is okay, nothing special.",neutral,5
+I'm very happy with my new Smartwatch.,neutral,3
+"It's an average Laptop, does the job.",negative,5
+"This Tablet is okay, nothing special.",negative,5
+"This Headphones is fantastic, highly recommended!",positive,1
+"It's an average Smartwatch, does the job.",negative,2
+This Tablet exceeded my expectations.,negative,1
+The Phone is terrible! Don't buy it.,neutral,5
+I regret buying this Tablet.,negative,4
+I'm very happy with my new Smartwatch.,negative,1
+"This Phone is okay, nothing special.",positive,5
+I'm very happy with my new Laptop.,neutral,2
+"This Tablet is okay, nothing special.",neutral,3
+I'm a bit disappointed with this Laptop.,negative,2
+"This Headphones is fantastic, highly recommended!",neutral,2
+"The Headphones is not bad, but could be better.",positive,2
+The Headphones is amazing! I love it.,positive,1
+I'm a bit disappointed with this Phone.,negative,5
+I'm a bit disappointed with this Laptop.,negative,2
+"This Laptop is fantastic, highly recommended!",neutral,2
+I'm a bit disappointed with this Laptop.,positive,3
+The Tablet is amazing! I love it.,neutral,5
+I regret buying this Headphones.,positive,3
+The Phone is terrible! Don't buy it.,negative,1
+I regret buying this Tablet.,negative,5
+The Headphones is amazing! I love it.,negative,4
+The Tablet is terrible! Don't buy it.,positive,5
+The Phone is terrible! Don't buy it.,positive,5
+The Headphones is amazing! I love it.,positive,2
+I regret buying this Headphones.,negative,5
+The Smartwatch is terrible! Don't buy it.,neutral,5
+"The Smartwatch is not bad, but could be better.",positive,5
+I'm a bit disappointed with this Tablet.,positive,2
+I'm very happy with my new Headphones.,negative,5
+"This Smartwatch is fantastic, highly recommended!",neutral,5
+"This Smartwatch is okay, nothing special.",neutral,2
+This Phone exceeded my expectations.,neutral,1
+"This Phone is okay, nothing special.",neutral,4
+I'm very happy with my new Smartwatch.,negative,2
+The Phone is terrible! Don't buy it.,negative,2
+This Laptop exceeded my expectations.,positive,3
+I'm very happy with my new Phone.,neutral,2
+The Smartwatch is amazing! I love it.,negative,3
+I'm a bit disappointed with this Phone.,neutral,2
+I'm a bit disappointed with this Tablet.,neutral,4
+This Smartwatch exceeded my expectations.,neutral,3
+"It's an average Smartwatch, does the job.",positive,2
+"This Smartwatch is okay, nothing special.",positive,1
+The Headphones is amazing! I love it.,neutral,1
+"It's an average Headphones, does the job.",neutral,3
+This Smartwatch exceeded my expectations.,negative,1
+"This Laptop is okay, nothing special.",neutral,4
+I'm a bit disappointed with this Headphones.,neutral,1
+"It's an average Phone, does the job.",positive,4
+"It's an average Headphones, does the job.",neutral,5
+I'm very happy with my new Headphones.,neutral,3
+The Laptop is terrible! Don't buy it.,neutral,3
+I regret buying this Smartwatch.,neutral,3
+I'm a bit disappointed with this Phone.,neutral,2
+"The Headphones is not bad, but could be better.",negative,4
+I regret buying this Headphones.,negative,3
+I'm a bit disappointed with this Laptop.,neutral,1
+"The Tablet is not bad, but could be better.",positive,1
+This Headphones exceeded my expectations.,positive,2
+This Smartwatch exceeded my expectations.,negative,1
+I'm a bit disappointed with this Smartwatch.,neutral,5
+This Smartwatch exceeded my expectations.,positive,4
+The Headphones is amazing! I love it.,neutral,4
+I regret buying this Phone.,neutral,2
+"This Phone is okay, nothing special.",neutral,3
+I regret buying this Headphones.,negative,5
+"It's an average Smartwatch, does the job.",negative,2
+I'm a bit disappointed with this Laptop.,negative,4
+The Headphones is amazing! I love it.,negative,5
+I'm a bit disappointed with this Phone.,positive,1
+"It's an average Tablet, does the job.",neutral,3
+The Laptop is amazing! I love it.,neutral,4
+The Headphones is terrible! Don't buy it.,positive,3
+I'm a bit disappointed with this Tablet.,neutral,3
+The Laptop is amazing! I love it.,neutral,3
+"This Tablet is fantastic, highly recommended!",negative,3
+"It's an average Headphones, does the job.",negative,3
+This Laptop exceeded my expectations.,positive,3
+I'm a bit disappointed with this Headphones.,negative,3
+"This Smartwatch is fantastic, highly recommended!",neutral,3
+I regret buying this Headphones.,neutral,1
+"It's an average Phone, does the job.",positive,3
+I regret buying this Headphones.,negative,1
+The Phone is amazing! I love it.,positive,1
+I'm a bit disappointed with this Laptop.,positive,4
+The Laptop is terrible! Don't buy it.,positive,2
+The Phone is amazing! I love it.,positive,3
+The Phone is terrible! Don't buy it.,positive,4
+I'm a bit disappointed with this Laptop.,neutral,1
+"This Headphones is okay, nothing special.",positive,3
+"The Phone is not bad, but could be better.",neutral,3
+"The Smartwatch is not bad, but could be better.",negative,1
+I'm very happy with my new Smartwatch.,negative,5
+I'm a bit disappointed with this Phone.,negative,4
+I'm a bit disappointed with this Laptop.,negative,4
+I'm very happy with my new Phone.,neutral,3
+I'm very happy with my new Laptop.,negative,4
+I'm a bit disappointed with this Phone.,neutral,2
+"This Tablet is fantastic, highly recommended!",positive,1
+"The Headphones is not bad, but could be better.",neutral,2
+"It's an average Phone, does the job.",negative,5
+"It's an average Headphones, does the job.",positive,2
+"It's an average Laptop, does the job.",neutral,1
+I'm very happy with my new Phone.,neutral,5
+I regret buying this Laptop.,negative,3
+"This Headphones is okay, nothing special.",neutral,3
+"This Smartwatch is okay, nothing special.",negative,2
+"It's an average Tablet, does the job.",neutral,1
+I regret buying this Phone.,positive,4
+I'm very happy with my new Tablet.,positive,3
+"It's an average Headphones, does the job.",negative,3
+I'm very happy with my new Tablet.,neutral,2
+The Tablet is amazing! I love it.,negative,2
+I regret buying this Tablet.,negative,1
+I regret buying this Tablet.,negative,5
+The Headphones is amazing! I love it.,neutral,1
+I'm a bit disappointed with this Tablet.,negative,2
+I'm a bit disappointed with this Tablet.,neutral,2
+"It's an average Smartwatch, does the job.",neutral,4
+I'm very happy with my new Tablet.,neutral,5
+"This Tablet is okay, nothing special.",negative,4
+I'm very happy with my new Smartwatch.,positive,4
+The Headphones is amazing! I love it.,positive,4
+I regret buying this Tablet.,positive,4
+The Smartwatch is amazing! I love it.,negative,1
+I'm a bit disappointed with this Smartwatch.,positive,2
+I'm very happy with my new Smartwatch.,negative,2
+"It's an average Tablet, does the job.",neutral,1
+"It's an average Headphones, does the job.",negative,1
+This Phone exceeded my expectations.,positive,1
+This Laptop exceeded my expectations.,positive,4
+"It's an average Laptop, does the job.",positive,3
+The Headphones is amazing! I love it.,neutral,4
+"It's an average Headphones, does the job.",neutral,2
+This Smartwatch exceeded my expectations.,negative,3
+"This Phone is fantastic, highly recommended!",positive,2
+"This Tablet is fantastic, highly recommended!",positive,1
+"This Phone is fantastic, highly recommended!",negative,5
+I'm a bit disappointed with this Headphones.,neutral,2
+I'm very happy with my new Phone.,negative,1
+The Laptop is amazing! I love it.,positive,1
+"It's an average Smartwatch, does the job.",neutral,2
+I regret buying this Headphones.,positive,4
+"It's an average Laptop, does the job.",neutral,4
+"The Phone is not bad, but could be better.",positive,1
+I regret buying this Phone.,neutral,5
+"It's an average Smartwatch, does the job.",positive,3
+"It's an average Headphones, does the job.",neutral,4
+"It's an average Smartwatch, does the job.",neutral,4
+"The Laptop is not bad, but could be better.",negative,5
+I'm very happy with my new Headphones.,positive,3
+"It's an average Smartwatch, does the job.",positive,3
+I'm very happy with my new Laptop.,positive,5
+The Laptop is terrible! Don't buy it.,neutral,1
+"It's an average Smartwatch, does the job.",neutral,2
+"This Smartwatch is fantastic, highly recommended!",neutral,3
+This Headphones exceeded my expectations.,negative,4
+I'm a bit disappointed with this Headphones.,neutral,2
+I'm very happy with my new Smartwatch.,negative,4
+This Laptop exceeded my expectations.,neutral,3
+I'm very happy with my new Tablet.,neutral,5
+The Phone is terrible! Don't buy it.,positive,2
+This Headphones exceeded my expectations.,neutral,4
+"This Laptop is okay, nothing special.",neutral,2
+The Laptop is amazing! I love it.,neutral,4
+The Smartwatch is terrible! Don't buy it.,negative,4
+I regret buying this Phone.,negative,4
+I'm a bit disappointed with this Phone.,neutral,2
+"It's an average Tablet, does the job.",neutral,1
+I'm a bit disappointed with this Smartwatch.,neutral,2
+"This Headphones is fantastic, highly recommended!",negative,4
+"This Smartwatch is okay, nothing special.",positive,3
+"This Tablet is fantastic, highly recommended!",neutral,3
+The Phone is terrible! Don't buy it.,negative,3
+"This Headphones is okay, nothing special.",positive,2
+"This Laptop is fantastic, highly recommended!",neutral,5
+"It's an average Phone, does the job.",positive,2
+"This Headphones is okay, nothing special.",neutral,5
+I'm a bit disappointed with this Headphones.,negative,4
+"It's an average Laptop, does the job.",neutral,5
+I'm a bit disappointed with this Phone.,neutral,2
+This Phone exceeded my expectations.,negative,5
+I'm a bit disappointed with this Headphones.,positive,5
+This Tablet exceeded my expectations.,neutral,3
+This Smartwatch exceeded my expectations.,positive,5
+I'm very happy with my new Smartwatch.,neutral,1
+I regret buying this Tablet.,positive,3
+I'm very happy with my new Laptop.,negative,1
+This Laptop exceeded my expectations.,neutral,4
+"This Tablet is okay, nothing special.",positive,3
+I regret buying this Smartwatch.,positive,1
+I regret buying this Headphones.,positive,2
+I'm very happy with my new Phone.,positive,1
+I regret buying this Headphones.,negative,1
+"The Smartwatch is not bad, but could be better.",neutral,4
+"It's an average Tablet, does the job.",positive,3
+This Headphones exceeded my expectations.,neutral,5
+I'm a bit disappointed with this Tablet.,neutral,2
+"This Smartwatch is okay, nothing special.",neutral,4
+The Laptop is amazing! I love it.,positive,2
+"It's an average Headphones, does the job.",neutral,3
+The Phone is terrible! Don't buy it.,neutral,4
+This Tablet exceeded my expectations.,positive,4
+I'm very happy with my new Phone.,positive,4
+I'm a bit disappointed with this Laptop.,neutral,3
+"This Laptop is okay, nothing special.",negative,3
